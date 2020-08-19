@@ -1,0 +1,17 @@
+{
+  "name": "restaurantbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2",
+    "telegraf": "^3.38.0"
+  }
+}

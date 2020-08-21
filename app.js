@@ -26,7 +26,7 @@ bot.on('text', ctx => {
     })
   });
 
-bot.launch()
+process.env.PORT
 
 
 

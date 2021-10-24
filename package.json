@@ -5,13 +5,16 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
+    "dotenv": "^10.0.0",
     "request": "^2.88.2",
     "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
   }
 }
